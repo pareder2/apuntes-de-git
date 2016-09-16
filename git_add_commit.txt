@@ -1,0 +1,4 @@
+Podemos saltarnos la zona de preparacion mediante
+git commit -a -m
+
+Pero solo vale para los archivos en seguimiento
