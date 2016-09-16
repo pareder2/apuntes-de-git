@@ -1,1 +1,0 @@
-Con git diff veo las diferencias entre las distintas versiones
