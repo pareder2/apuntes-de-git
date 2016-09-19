@@ -1,1 +1,3 @@
-Git commit
+Git commit --amend
+Si no hemos hecho cambios desde la ultima confirmacion entonces se sube lo mismo, pero se modifica el comentario.
+Aun asi utiliza la zona de preparación para añadir ficheros al commit
