@@ -12,3 +12,6 @@ Flujo de trabajo básico en git
 3 Se confirman los cambios, tomandolos del área de preparación y añadiendolos al directorio git
 
 Estando el archivo en la zona de preparación lo modifico
+
+
+Esta linea se crea en la rama master
